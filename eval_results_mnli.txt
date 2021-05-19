@@ -1,0 +1,1 @@
+Loss = nan	Accuracy = 0.000000
